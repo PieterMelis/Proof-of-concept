@@ -1,7 +1,7 @@
 # Proof of concept
 
-Web Research - Proof Of Concept.
-**Pieter Melis**
+#### Web Research - Proof Of Concept.
+
 ---
 
 ## 21/11/2017
