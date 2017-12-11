@@ -14,4 +14,5 @@
 ## 5/12/2017
 - OpenCv bekeken
   - https://docs.opencv.org/2.4/modules/imgproc/doc/feature_detection.html?highlight=houghcircles#houghcircles
+  
 -Mogelijkheden met kinect 
