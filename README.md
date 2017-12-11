@@ -12,7 +12,13 @@
 - Aanmaken van Repository
 
 ## 5/12/2017
-- OpenCv bekeken
+- OpenCv 
   - https://docs.opencv.org/2.4/modules/imgproc/doc/feature_detection.html?highlight=houghcircles#houghcircles
+  - https://www.youtube.com/watch?v=UjXu1kqfK-A
+  - https://opencv.org/
+  - https://www.pyimagesearch.com/2015/02/23/install-opencv-and-python-on-your-raspberry-pi-2-and-b/
   
--Mogelijkheden met kinect 
+- Kinect 
+  - http://www.instructables.com/id/How-to-Connect-a-Kinect/
+  - http://www.i-programmer.info/programming/hardware/1905-getting-started-pc-kinect.html
+  
