@@ -10,3 +10,5 @@
 
 ## 3/12/2017
 - Aanmaken van Repository
+- Zoeken naar interessante bronnen
+⋅⋅⋅ - https://www.youtube.com/watch?v=v-YrhySY2RM
