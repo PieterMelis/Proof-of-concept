@@ -22,7 +22,7 @@
   - http://www.instructables.com/id/How-to-Connect-a-Kinect/
   - http://www.i-programmer.info/programming/hardware/1905-getting-started-pc-kinect.html
 
-## 20/12/2017
+## 19/12/2017
 - Opencv installeren op raspberry pi
 - Camera proberen te installeren
 - Code onderzoeken en aanpasssen
@@ -32,3 +32,8 @@
   - https://milq.github.io/install-opencv-ubuntu-debian/
   - http://www.roedan.com/goal-line-technology/
   - https://www.youtube.com/watch?v=ZcV1Y0tj-Ww
+## 20/12/2017
+- Fouten bij het runnen van het programma
+- zoeken naar alternatieven
+  - https://www.youtube.com/watch?v=dqbhPcef7Do
+  - https://cloud.google.com/video-intelligence/
