@@ -34,6 +34,13 @@
   - https://www.youtube.com/watch?v=ZcV1Y0tj-Ww
 ## 20/12/2017
 - Fouten bij het runnen van het programma
-- zoeken naar alternatieven
+- Zoeken naar alternatieven
   - https://www.youtube.com/watch?v=dqbhPcef7Do
   - https://cloud.google.com/video-intelligence/
+## 10/01/2018
+- Volgen van tutorial ->  https://github.com/MicrocontrollersAndMore/OpenCV_3_Windows_10_Installation_Tutorial
+- Installeer visual studio 2017
+- Open CV installeren in visual studio
+## 11/01/2018
+- Project aanmaken in C++ en nieuw programma toevoegen
+- Bij het runnen van de code krijg ik de melding dat hij de open CV lib niet kan terug vinden ondanks ik deze geconfigureerd heb
