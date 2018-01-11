@@ -39,8 +39,11 @@
   - https://cloud.google.com/video-intelligence/
 ## 10/01/2018
 - Volgen van tutorial ->  https://github.com/MicrocontrollersAndMore/OpenCV_3_Windows_10_Installation_Tutorial
-- Installeer visual studio 2017
+- Installatie van Visual studio 2017 Community Edition
 - Open CV installeren in visual studio
 ## 11/01/2018
-- Project aanmaken in C++ en nieuw programma toevoegen
+- Project aanmaken in C++ en test programma proberen runnen
 - Bij het runnen van de code krijg ik de melding dat hij de open CV lib niet kan terug vinden ondanks ik deze geconfigureerd heb
+## 12/01/2018
+-  Bin directory Toevoegen aan System PATH
+- Nieuw project aanmaken in Visual studio
