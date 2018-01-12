@@ -55,3 +55,4 @@
 - Mijn
 - Objectherkenning werkt perfect en het detecteren van de positie tegenover een lijn ook
 - Ik heb dit uitgetest met het maken van een miniatuur doel en daaraan een camera bevestigd
+![alt photo](testingContent/p.jpg)
