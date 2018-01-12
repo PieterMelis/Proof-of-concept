@@ -45,5 +45,13 @@
 - Project aanmaken in C++ en test programma proberen runnen
 - Bij het runnen van de code krijg ik de melding dat hij de open CV lib niet kan terug vinden ondanks ik deze geconfigureerd heb
 ## 12/01/2018
--  Bin directory Toevoegen aan System PATH
+- Bin directory Toevoegen aan System PATH
 - Nieuw project aanmaken in Visual studio
+-  Toen Mijn testcode niet werkte had ik eerst nog mijn include directories moeten toevoegen en mijn library directory definiëren
+- Vervolgens moest ik ook nog mijn opencv debug lib toevoegen aan Visual studio
+- Nog altijd heb ik een fout dat hij mijn opencv debug lib niet kan vinden
+- Door dat ik aan het debuggen was op x86 ipv x62 kon ik mijn programma niet runnen
+- Bij het testen had ik een aantal problemen met mijn camera. Maar dit heb ik opgelost door de juiste drivers te installeren
+- Mijn
+- Objectherkenning werkt perfect en het detecteren van de positie tegenover een lijn ook
+- Ik heb dit uitgetest met het maken van een miniatuur doel en daaraan een camera bevestigd
