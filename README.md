@@ -52,7 +52,6 @@
 - Nog altijd heb ik een fout dat hij mijn opencv debug lib niet kan vinden
 - Door dat ik aan het debuggen was op x86 ipv x62 kon ik mijn programma niet runnen
 - Bij het testen had ik een aantal problemen met mijn camera. Maar dit heb ik opgelost door de juiste drivers te installeren
-- Mijn
 - Objectherkenning werkt perfect en het detecteren van de positie tegenover een lijn ook
 - Ik heb dit uitgetest met het maken van een miniatuur doel en daaraan een camera bevestigd
 
@@ -60,3 +59,6 @@
 ![alt photo](testingContent/p.jpg)
 ![alt photo](testingContent/p2.jpg)
 ![alt photo](testingContent/p1.jpg)
+
+## 14/01/2018
+- Ik ga nu nog alles testen en proberen te verbeteren 
