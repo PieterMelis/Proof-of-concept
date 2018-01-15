@@ -1,6 +1,6 @@
 # Proof of concept
 
-#### Web Research - Proof Of Concept.
+#### Web Research - Doellijntechnologie maken met behulp van beeldanalyse
 
 ---
 
