@@ -65,3 +65,7 @@
 - Geluid toegevoegd
 - Afstand beter afstellen 
 - Font aanpassing
+
+## Conclusie
+
+Mijn origineel concept was : Kan ik zelf doellijntechnologie maken met behulp van beeldanalyse ( dus enkel een camera en zonder sensoren ). Uiteindelijk heb ik besloten om dit met Open CV te proberen. Ik ben bekomen tot een opstelling waarbij ik de dikte van de bal kan meten. De bedoeling is om de doellijn net buiten beeld te houden en als de bal volledig in beeld is dit aan te geven. Bij dit project zijn er een aantal zaken waar je rekening mee moet houden: Door slechte belichting kan het zijn dat de bal niet genoeg contrast heeft met de achtergrond en zal deze niet herkend worden. De snelheid van de bal is voorlopig ook een belangrijke factor op succes. Ondanks al deze beperkingen heb ik wel aangetoond dat het mogelijk is om te maken.
