@@ -61,4 +61,7 @@
 ![alt photo](testingContent/p1.jpg)
 
 ## 14/01/2018
-- Ik ga nu nog alles testen en proberen te verbeteren 
+- Testen en proberen te verbeteren 
+- Geluid toegevoegd
+- Afstand beter afstellen 
+- Font aanpassing
