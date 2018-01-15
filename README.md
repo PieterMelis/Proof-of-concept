@@ -12,15 +12,23 @@
 - Aanmaken van Repository
 
 ## 5/12/2017
+### Bronnen
 - OpenCv
   - https://docs.opencv.org/2.4/modules/imgproc/doc/feature_detection.html?highlight=houghcircles#houghcircles
   - https://www.youtube.com/watch?v=UjXu1kqfK-A
   - https://opencv.org/
   - https://www.pyimagesearch.com/2015/02/23/install-opencv-and-python-on-your-raspberry-pi-2-and-b/
-
+  - https://docs.opencv.org/3.0-beta/doc/tutorials/tutorials.html
+  - https://www.learnopencv.com/
+  - https://opencv-srf.blogspot.be/p/introduction.html
+  - https://github.com/opencv/opencv/tree/master/samples/cpp
+  - http://www.bogotobogo.com/cplusplus/opencv.php
+  
 - Kinect
   - http://www.instructables.com/id/How-to-Connect-a-Kinect/
   - http://www.i-programmer.info/programming/hardware/1905-getting-started-pc-kinect.html
+  - https://msdn.microsoft.com/en-us/library/hh855376.aspx
+  - https://homes.cs.washington.edu/~edzhang/tutorials/kinect2/kinect1.html
 
 ## 19/12/2017
 - Opencv installeren op raspberry pi
